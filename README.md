@@ -1,0 +1,1 @@
+This project is for learning only. This shows the basic concept or sample code of how to create a Image Classification model using one of the common algorithm of Deep Learning. It called convolutional neural network (CNN) which is a type of Artificial Neural Network (ANN) which is designed to process data with a grid-like topology such as images.
